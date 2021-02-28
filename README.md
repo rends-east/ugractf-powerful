@@ -74,7 +74,7 @@ for a, (b, n), (c, d) in zip(encrypted_data, common_key, private_key):
     c2 = chr(x // 256 % 256)
     c3 = chr(x // 65536)
     print(c3 + c2 + c1, end = "")
-    ```  
+```  
 
 Получаем флаг:  
 
