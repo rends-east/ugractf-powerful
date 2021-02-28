@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/73061822/109431735-0e712800-7a19-11eb-88b4-8508966c030f.png)
 
-Привлекает эта строка:  
+В decrypt.py привлекает эта строка:  
 ```python
 
 x = ((a ** b) ** (c ** d)) % n
